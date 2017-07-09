@@ -300,3 +300,6 @@ ul, ol, li {
 .panel .panel-heading {
   background: #354053;
   color: #ffffff; }
+
+.bold-me {
+  font-weight: bold; }
